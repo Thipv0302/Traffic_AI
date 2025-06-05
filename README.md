@@ -60,14 +60,6 @@ python speed.py
 * Outputs annotated video as `output_tracking.mp4`
 * Saves speed logs to `car_details.csv`
 
-### 2. Just Visualize Detection + Tracking (No speed):
-
-```bash
-python main.py
-```
-
-* Useful for testing detection and ID tracking.
-
 ---
 
 ## 📊 Output Example
