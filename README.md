@@ -30,7 +30,7 @@ This project uses **YOLOv8** and **OpenCV** to detect vehicles in a video, assig
 ├── speed.py          # Main file: detection + speed estimation + CSV logging
 ├── tracker.py        # Custom object tracker (ID assignment)
 ├── coco.txt          # Class labels for YOLOv8
-├── veh2.mp4          # Sample input video (you need to provide)
+├── car.mp4          # Sample input video (you need to provide)
 ├── output\_tracking.mp4 # Output video with annotations
 ├── car\_details.csv   # Output CSV with car ID, speed, direction, timestamp
 
